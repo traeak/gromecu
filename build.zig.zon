@@ -1,0 +1,14 @@
+.{
+    .name = .gromecu,
+    .version = "0.1.0",
+    .fingerprint = 0x671a7a81bdd51c99,
+    .minimum_zig_version = "0.17.1",
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "README.md",
+        "LICENSE",
+    },
+}
